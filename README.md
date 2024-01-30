@@ -1,7 +1,5 @@
 a) Name: Zhihao Zhang
 
-b) Student ID: 3662704153
-
 c）In this project, a library management system with identity authentication is implemented. The system consists of a client server, a main server and three back-end servers. The workflow is as follows:
 
 1. Start each server process in sequence, and then the client accepts the user name and password entered from the keyboard, and then encrypts the ciphertext and sends it to the main server for verification.
